@@ -1,4 +1,4 @@
-## Desvendando a Máquina de Buscar Atletas
+## Desvendando a Máquina de Buscar Atletas - Imersão Dev com Google Gemini
 
 **O que faz essa maravilha?**
 
